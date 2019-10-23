@@ -11,3 +11,7 @@ App criado durante o curso  de ReactJs e React Native da plataforma  https://www
 ##Página  Séries
 
 ![series](https://user-images.githubusercontent.com/41832951/67348013-0e564380-f51a-11e9-9625-0cc3491328f7.png)
+
+##Página  Informação da Série
+
+![info-serie](https://user-images.githubusercontent.com/41832951/67348127-54aba280-f51a-11e9-9c50-1bd633e01a6d.png)
