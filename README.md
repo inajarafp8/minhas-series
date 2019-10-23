@@ -18,7 +18,7 @@ App criado durante o curso  de ReactJs e React Native da plataforma  https://www
 
 ## Página Editar Série
 
-Fica na mesma página de informação , ao clicar no butão de editar  abre o modal de editar!
+Fica na mesma página de informação , ao clicar no botão de editar  abre o modal de editar!
 
 ![editar-serie](https://user-images.githubusercontent.com/41832951/67348250-aa804a80-f51a-11e9-96e1-f564e8db2b19.png)
 
