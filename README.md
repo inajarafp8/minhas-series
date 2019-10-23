@@ -1,68 +1,31 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Minhas Séries
 
-In the project directory, you can run:
+Um aplicativo criado com intuito de gravar as Série que você já assistiu e que pretende assistir, é como se fosse um bloco de notas específico para Séries alem de ser mais bonito!  
 
-### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Criação
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+App criado durante o curso  de ReactJs e React Native da plataforma  https://www.devpleno.com/devreactjs/
 
-### `yarn test`
+## Página  Séries
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![series](https://user-images.githubusercontent.com/41832951/67348013-0e564380-f51a-11e9-9625-0cc3491328f7.png)
 
-### `yarn build`
+## Página Informação da Série
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![info-serie](https://user-images.githubusercontent.com/41832951/67348127-54aba280-f51a-11e9-9c50-1bd633e01a6d.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## Página Editar Série
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Fica na mesma página de informação , ao clicar no butão de editar  abre o modal de editar!
 
-### `yarn eject`
+![editar-serie](https://user-images.githubusercontent.com/41832951/67348250-aa804a80-f51a-11e9-96e1-f564e8db2b19.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Página dos Genêros
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![generos](https://user-images.githubusercontent.com/41832951/67348408-37c39f00-f51b-11e9-87dc-0ac33b44b73b.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Página de Editar Genêros
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![editar-genero](https://user-images.githubusercontent.com/41832951/67348459-6e99b500-f51b-11e9-8299-88d588f8b4ac.png)
