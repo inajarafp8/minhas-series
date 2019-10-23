@@ -6,4 +6,4 @@ Um aplicativo criado com intuito de gravar as Série que você já assistiu e qu
 
 ##Criação
 
-App criado durante o curso  de ReactJs e React Native da plata  forma  https://www.devpleno.com/devreactjs/
+App criado durante o curso  de ReactJs e React Native da plataforma  https://www.devpleno.com/devreactjs/
